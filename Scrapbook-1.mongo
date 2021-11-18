@@ -1,0 +1,24 @@
+db.Portfolio.insert([{
+  "_id": {
+    "$oid": "6028f364bebb034e04083d4d"
+  },
+  "attributes": {
+    "type": "Portfolio__c",
+    "url": "/services/data/v51.0/sobjects/Portfolio__c/a181q000001SaOeAAK"
+  },
+  "LastModifiedDate": "2021-02-14T09:48:22.000+0000",
+  "IsDeleted": false,
+  "PageNumber__c": "1",
+  "Name__c": "Test2pf",
+  "Name": "P-084784",
+  "SystemModstamp": "2021-02-14T09:48:22.000+0000",
+  "FolderType__c": "Law Book",
+  "OwnerId": "0051q000004GHZtAAO",
+  "CreatedById": "0051q000004GHZtAAO",
+  "RecordTypeId": "0123Y000000pHUHQA2",
+  "CreatedDate": "2021-02-14T09:48:22.000+0000",
+  "IsSpecialMeeting__c": false,
+  "Id": "a181q000001SaOeAAK",
+  "LastModifiedById": "0051q000004GHZtAAO"
+}
+])

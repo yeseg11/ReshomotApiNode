@@ -1,0 +1,10 @@
+{
+    "Prod": {
+        "appname":"salesforce-mongodb",
+        "dbName":"SalesforceDB",
+        "dbPass":"bOPllCAu6qKj0dACsQimUyLAoZ5trJOUYdAR3sBCsGGINAtriA0oPIISBbAmnC1RDBJzkAryHiQREqLzFlQXEA=="
+    },
+    "Dev": {
+        "appname":"@salesforce-mongodb@"
+    }
+  }
